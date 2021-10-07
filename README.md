@@ -1,2 +1,2 @@
 # Alphs-Journey
-A pograme detailing the generational upgraades of my first computer
+A pograme detailing the generational upgrades of my first computer
